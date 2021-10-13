@@ -16,9 +16,11 @@
   <p>
     Tere! Ma olen Kaspar Saakpakk, matriklinumbriga 213078.
   </p>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Siin on üks lingike :)</a>
-  <h1>
-    Mulle meeldib ka muusikat kuulata. Siin on paar soovitust tabelis:
+  <h2>
+    Mulle meeldib ka muusikat kuulata. Siin on paar soovitust linkidena:
     </h2>
+  <a href="https://www.youtube.com/watch?v=QKmaG5f9Zsg">Leprous - "Running low". Mu lemmikbändi viimase albumi esisingel. </a>
+  <a href="https://www.youtube.com/watch?v=JKTnQLFCOGg">Maraton - "Almost human". Veel hääd mussi tegevaid norrakaid. </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Lõpetuseks ka üks läbi aegade klassika :)</a>
   </body>
   

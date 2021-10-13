@@ -10,11 +10,11 @@
   <h1>
     See on minu sait, mille selleks kontrolltööks kokku vihunud olen. HTMLi ma ei oska, kuid hämada võib küll ja küll!
   </h1>
-  <p1>
+  <p>
     Kes ma üldse selline olen? 
-  </p1>
-  <p2>
+  </p>
+  <p>
     Tere! Ma olen Kaspar Saakpakk, matriklinumbriga 213078.
-  </p2>
+  </p>
   </body>
   

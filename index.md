@@ -16,11 +16,16 @@
   <p>
     Tere! Ma olen Kaspar Saakpakk, matriklinumbriga 213078.
   </p>
+  <a href="https://taltech.ee/">Pidi olema ka link TalTechi lehele. </a><br>
   <h2>
     Mulle meeldib ka muusikat kuulata. Siin on paar soovitust linkidena:
     </h2>
   <a href="https://www.youtube.com/watch?v=QKmaG5f9Zsg">Leprous - "Running low". Mu lemmikbändi viimase albumi esisingel. </a><br>
   <a href="https://www.youtube.com/watch?v=JKTnQLFCOGg">Maraton - "Almost human". Veel hääd mussi tegevaid norrakaid. </a><br>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Lõpetuseks ka üks läbi aegade klassika :)</a><br>
+  <h3>
+    Lõpetuseks ka pilt mu koerast
+  </h3>
+  <img src="https://prnt.sc/1w1fpz1" alt="Koerapilt" width="543" height="543">
   </body>
   

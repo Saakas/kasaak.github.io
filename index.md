@@ -8,10 +8,13 @@
 
 <body>
   <h1>
-    See on minu sait, mille selleks kontrolltööks kokku vihunud olen. HTMLi ma ei oska, kuid hämada see-eest liigagi hästi!
+    See on minu sait, mille selleks kontrolltööks kokku vihunud olen. HTMLi ma ei oska, kuid hämada võib küll ja küll!
   </h1>
-  <p>
-    Kes ma üldse selline olen? Tere! Ma olen Kaspar Saakpakk, matriklinumbriga 213078.
-  </p>
+  <p1>
+    Kes ma üldse selline olen? 
+  </p1>
+  <p2>
+    Tere! Ma olen Kaspar Saakpakk, matriklinumbriga 213078.
+  </p2>
   </body>
   

@@ -19,8 +19,8 @@
   <h2>
     Mulle meeldib ka muusikat kuulata. Siin on paar soovitust linkidena:
     </h2>
-  <a href="https://www.youtube.com/watch?v=QKmaG5f9Zsg">Leprous - "Running low". Mu lemmikbändi viimase albumi esisingel. </a>
-  <a href="https://www.youtube.com/watch?v=JKTnQLFCOGg">Maraton - "Almost human". Veel hääd mussi tegevaid norrakaid. </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Lõpetuseks ka üks läbi aegade klassika :)</a>
+  <a href="https://www.youtube.com/watch?v=QKmaG5f9Zsg">Leprous - "Running low". Mu lemmikbändi viimase albumi esisingel. </a><br>
+  <a href="https://www.youtube.com/watch?v=JKTnQLFCOGg">Maraton - "Almost human". Veel hääd mussi tegevaid norrakaid. </a><br>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Lõpetuseks ka üks läbi aegade klassika :)</a><br>
   </body>
   
